@@ -1,0 +1,3 @@
+include README.rst
+include COPYING.txt
+include {{cookiecutter.project_name}}/version.py
